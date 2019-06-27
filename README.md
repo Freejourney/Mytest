@@ -20,7 +20,7 @@
 ```
     git remote add origin http:https://github.com/Freejourney/Mytest
 ```
-In this, **origin** is the name of remote resporitory and it connects to the URL address
+In this, **origin** is the name of remote repository and it connects to the URL address
 
 
 #### 3. Push changes to github
@@ -28,4 +28,4 @@ In this, **origin** is the name of remote resporitory and it connects to the URL
 ```
     git push origin master
 ```
-In this part, **master** is your local branch, and this will be **pushed** into your default branch of your origin resporitory
+In this part, **master** is your local branch, and this will be **pushed** into your default branch of your origin repository
